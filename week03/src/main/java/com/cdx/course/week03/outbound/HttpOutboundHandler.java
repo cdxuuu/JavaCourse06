@@ -1,11 +1,11 @@
 package com.cdx.course.week03.outbound;
 
 
-import io.github.kimmking.gateway.filter.HeaderHttpResponseFilter;
-import io.github.kimmking.gateway.filter.HttpRequestFilter;
-import io.github.kimmking.gateway.filter.HttpResponseFilter;
-import io.github.kimmking.gateway.router.HttpEndpointRouter;
-import io.github.kimmking.gateway.router.RandomHttpEndpointRouter;
+import com.cdx.course.week03.filter.HeaderHttpResponseFilter;
+import com.cdx.course.week03.filter.HttpRequestFilter;
+import com.cdx.course.week03.filter.HttpResponseFilter;
+import com.cdx.course.week03.router.HttpEndpointRouter;
+import com.cdx.course.week03.router.RandomHttpEndpointRouter;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFutureListener;
 import io.netty.channel.ChannelHandlerContext;
