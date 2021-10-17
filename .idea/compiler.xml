@@ -9,12 +9,14 @@
         <module name="JavaCourse06" />
         <module name="week02" />
         <module name="week03" />
+        <module name="week04" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JavaCourse06" target="1.8" />
       <module name="week02" target="11" />
       <module name="week03" target="1.8" />
+      <module name="week04" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
