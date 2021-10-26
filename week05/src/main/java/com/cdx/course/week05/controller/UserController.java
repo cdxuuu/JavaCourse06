@@ -1,9 +1,9 @@
 package com.cdx.course.week05.controller;
 
-import com.company.project.annotation.mapper.UserMapper;
-import com.company.project.entity.User;
-import com.company.project.entity.User2;
-import com.company.project.xml.mapper.UserMapperXML;
+import com.cdx.course.week05.entity.User;
+import com.cdx.course.week05.entity.User2;
+import com.cdx.course.week05.mapper.UserMapper;
+import com.cdx.course.week05.mapper.UserMapperXML;
 import org.mybatis.spring.SqlSessionTemplate;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

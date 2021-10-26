@@ -1,7 +1,7 @@
 package com.cdx.course.week05.mapper;
 
 
-import com.company.project.entity.User;
+import com.cdx.course.week05.entity.User;
 import org.apache.ibatis.annotations.*;
 
 /**
