@@ -1,4 +1,4 @@
-package com.cdx.course.week05;
+package com.cdx.course.week05.config;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
